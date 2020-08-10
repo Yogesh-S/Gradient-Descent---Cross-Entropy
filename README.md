@@ -1,4 +1,4 @@
-# Neural Network Architecture
+# Neural Network Dimensions
 Simple neural network with 2-input nodes and 1 output node
 
 
